@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 func (tc *termConnector) sendMessage(ch, msg string, f bot.MessageFormat) (ret bot.RetVal) {

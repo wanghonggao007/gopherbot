@@ -11,7 +11,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/dynamodb"
 	"github.com/aws/aws-sdk-go/service/dynamodb/dynamodbattribute"
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 var robot bot.Handler

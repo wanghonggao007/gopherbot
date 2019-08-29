@@ -3,8 +3,8 @@ package slack
 import (
 	"time"
 
-	"github.com/lnxjedi/gopherbot/bot"
 	"github.com/nlopes/slack"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 // Message send delay; slack has problems with scrolling if messages fly out

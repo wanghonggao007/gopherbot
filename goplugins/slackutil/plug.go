@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/lnxjedi/gopherbot/bot"
 	"github.com/nlopes/slack"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 var idre = regexp.MustCompile(`slack id <@(.*)>`)

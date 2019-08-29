@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/Jeffail/gabs"
-	"github.com/lnxjedi/gopherbot/connectors/rocket/models"
+	"github.com/wanghonggao007/gopherbot/connectors/rocket/models"
 )
 
 // GetPublicSettings gets public settings

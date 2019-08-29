@@ -9,7 +9,7 @@ import (
 
 	duoapi "github.com/duosecurity/duo_api_golang"
 	"github.com/duosecurity/duo_api_golang/authapi"
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 var timeoutLock sync.RWMutex

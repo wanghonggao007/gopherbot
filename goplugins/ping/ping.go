@@ -5,7 +5,7 @@ package ping
 import (
 	"fmt"
 
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 // DO NOT DISABLE THIS PLUGIN! ALL ROBAWTS MUST KNOW THE RULES

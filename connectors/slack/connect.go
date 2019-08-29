@@ -6,8 +6,8 @@ import (
 	"log"
 	"sync"
 
-	"github.com/lnxjedi/gopherbot/bot"
 	"github.com/nlopes/slack"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 type botDefinition struct {

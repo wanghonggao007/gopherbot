@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 var (

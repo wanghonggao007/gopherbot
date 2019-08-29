@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 var brainPath string

@@ -8,7 +8,7 @@ import (
 
 	"github.com/Jeffail/gabs"
 	"github.com/gopackage/ddp"
-	"github.com/lnxjedi/gopherbot/connectors/rocket/models"
+	"github.com/wanghonggao007/gopherbot/connectors/rocket/models"
 )
 
 const (

@@ -5,7 +5,7 @@ package knock
 import (
 	"strings"
 
-	"github.com/lnxjedi/gopherbot/bot"
+	"github.com/wanghonggao007/gopherbot/bot"
 )
 
 // Joke holds a knock-knock joke
